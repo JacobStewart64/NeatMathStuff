@@ -1,0 +1,3 @@
+/home/jacob/ProgrammingProjects/MathStuff/linearregression/CMakeFiles/rebuild_cache.dir
+/home/jacob/ProgrammingProjects/MathStuff/linearregression/CMakeFiles/linearregression.dir
+/home/jacob/ProgrammingProjects/MathStuff/linearregression/CMakeFiles/edit_cache.dir

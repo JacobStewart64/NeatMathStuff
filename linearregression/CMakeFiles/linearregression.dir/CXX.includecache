@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jacob/ProgrammingProjects/MathStuff/linearregression/linearregression.cpp
+iostream
+-
+vector
+-
+math.h
+-
+string
+-
+
