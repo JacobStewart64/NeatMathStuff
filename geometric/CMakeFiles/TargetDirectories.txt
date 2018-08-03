@@ -1,0 +1,3 @@
+C:/Users/cool_/Documents/NeatMathStuff/geometric/CMakeFiles/geometry.dir
+C:/Users/cool_/Documents/NeatMathStuff/geometric/CMakeFiles/edit_cache.dir
+C:/Users/cool_/Documents/NeatMathStuff/geometric/CMakeFiles/rebuild_cache.dir
